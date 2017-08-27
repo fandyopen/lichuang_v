@@ -1,0 +1,334 @@
+{"data": {
+  "ads": [
+    {
+      "url": "",
+      "title": "广告1",
+      "img": "http://mall.lccert.com/test/upload/20170615/1497511315729.jpg"
+    },
+    {
+      "url": "",
+      "title": "广告2",
+      "img": "http://mall.lccert.com/upload/20170503/149377511453.jpg"
+    },
+    {
+      "url": "",
+      "title": "广告3",
+      "img": "http://mall.lccert.com/test/upload/20170615/1497511315729.jpg"
+    }
+  ],
+  "goods": [
+    {
+      "price": "69.9",
+      "title": "德芙",
+      "img": "http://m.360buyimg.com/babel/s211x211_jfs/t3688/270/776223567/128582/fa074fb3/58170f6dN6b9a12bf.jpg!q50.jpg.webp"
+    },
+    {
+      "price": "63",
+      "title": "费列罗",
+      "img": "http://m.360buyimg.com/babel/s211x211_jfs/t613/100/1264998035/221234/1a29d51f/54c34525Nb4f6581c.jpg!q50.jpg.webp"
+    },
+    {
+      "price": "29.9",
+      "title": "大米",
+      "img": "http://m.360buyimg.com/babel/s211x211_jfs/t1258/40/17387560/108696/aced445f/54e011deN3ae867ae.jpg!q50.jpg.webp"
+    },
+    {
+      "price": "54.9",
+      "title": "安慕希",
+      "img": "http://m.360buyimg.com/babel/s211x211_jfs/t2734/15/680373407/215934/3abaa748/572057daNc09b5da7.jpg!q50.jpg.webp"
+    },
+    {
+      "price": "58",
+      "title": "金典",
+      "img": "http://m.360buyimg.com/babel/s211x211_jfs/t2482/145/1424008556/91991/d62f5454/569f47a2N3f763060.jpg!q50.jpg.webp"
+    },
+    {
+      "price": "60",
+      "title": "味可滋",
+      "img": "http://m.360buyimg.com/babel/s211x211_jfs/t2368/3/874563950/70786/7b5e8edd/563074c8N4d535db4.jpg!q50.jpg.webp"
+    },
+    {
+      "price": "248.00",
+      "title": "泸州老窖",
+      "img": "http://m.360buyimg.com/babel/s211x211_jfs/t283/166/1424018055/189580/7c0792b7/543b4958N05fa2feb.jpg!q50.jpg.webp"
+    },
+    {
+      "price": "328.8",
+      "title": "剑南春",
+      "img": "http://m.360buyimg.com/babel/s350x350_g15/M05/1A/0A/rBEhWlNeLAwIAAAAAAHyok3PZY0AAMl8gO8My0AAfK6307.jpg!q50.jpg.webp"
+    },
+    {
+      "price": "49.00",
+      "title": "蓝莓",
+      "img": "http://m.360buyimg.com/babel/s211x211_jfs/t2332/148/2952098628/94387/e64654e2/56f8d76aNb088c2ab.jpg!q50.jpg.webp"
+    },
+    {
+      "price": "68",
+      "title": "芒果",
+      "img": "http://m.360buyimg.com/n0/jfs/t3709/334/1378702984/206759/5c100ab5/58253588Naaa05c5c.jpg!q70.jpg"
+    }
+  ],
+  "smallAds": [
+    {
+      "url": "",
+      "title": "广告1",
+      "img": "http://mall.lccert.com/test/upload/20170324/1490345484662.jpg"
+    },
+    {
+      "url": "",
+      "title": "广告2",
+      "img": "http://mall.lccert.com/test/upload/20170615/1497511470713.jpg"
+    },
+    {
+      "url": "",
+      "title": "广告3",
+      "img": "http://mall.lccert.com/test/upload/20170615/1497511522622.jpg"
+    },
+    {
+      "url": "",
+      "title": "广告4",
+      "img": "http://mall.lccert.com/test/upload/20170324/1490345484662.jpg"
+    }
+  ],
+  "Records": [
+    {
+      "goods_id": "76",
+      "category_id": "13",
+      "goods_name": "asfddfgf",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "222.00",
+      "goods_cost": "0.00",
+      "goods_lower": "0.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "",
+      "removed_status": "1",
+      "goods_check_type": "1",
+      "add_time": "1497413711",
+      "update_time": "1497419445",
+      "special": "1",
+      "is_hot": "1",
+      "risk_report_price": "0.00"
+    },
+    {
+      "goods_id": "75",
+      "category_id": "13",
+      "goods_name": "aasdf",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "111.00",
+      "goods_cost": "0.00",
+      "goods_lower": "0.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "",
+      "removed_status": "1",
+      "goods_check_type": "2",
+      "add_time": "1497412987",
+      "update_time": "1497419455",
+      "special": "1",
+      "is_hot": "1",
+      "risk_report_price": "0.00"
+    },
+    {
+      "goods_id": "73",
+      "category_id": "13",
+      "goods_name": "香水、古龙水 QB/T 1858",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "2342.00",
+      "goods_cost": "0.00",
+      "goods_lower": "0.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "",
+      "removed_status": "1",
+      "goods_check_type": "2",
+      "add_time": "1494816666",
+      "update_time": "1497413753",
+      "special": "1",
+      "is_hot": "1",
+      "risk_report_price": "0.00"
+    },
+    {
+      "goods_id": "72",
+      "category_id": "13",
+      "goods_name": "香水、古龙水 QB/T 18585555",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "12341.00",
+      "goods_cost": "0.00",
+      "goods_lower": "0.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "",
+      "removed_status": "1",
+      "goods_check_type": "2",
+      "add_time": "1494816651",
+      "update_time": "1497344390",
+      "special": "1",
+      "is_hot": "1",
+      "risk_report_price": "0.00"
+    },
+    {
+      "goods_id": "70",
+      "category_id": "45",
+      "goods_name": "香水、古龙水 QB/T 18589898",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "12312312.00",
+      "goods_cost": "1231.00",
+      "goods_lower": "12312313.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "asdf",
+      "removed_status": "1",
+      "goods_check_type": "2",
+      "add_time": "1494816608",
+      "update_time": "1497344429",
+      "special": "1",
+      "is_hot": "1",
+      "risk_report_price": "0.00"
+    },
+    {
+      "goods_id": "60",
+      "category_id": "54",
+      "goods_name": "洗发液/洗发水GB/T 29679——2013",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "100.00",
+      "goods_cost": "0.00",
+      "goods_lower": "0.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "",
+      "removed_status": "1",
+      "goods_check_type": "2",
+      "add_time": "1488440079",
+      "update_time": "1497344452",
+      "special": "1",
+      "is_hot": "1",
+      "risk_report_price": "0.00"
+    },
+    {
+      "goods_id": "59",
+      "category_id": "56",
+      "goods_name": "口红唇膏类--GB/T2828.1-2003",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "100.00",
+      "goods_cost": "0.00",
+      "goods_lower": "0.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "",
+      "removed_status": "1",
+      "goods_check_type": "2",
+      "add_time": "1488437000",
+      "update_time": "1497345928",
+      "special": "2",
+      "is_hot": "0",
+      "risk_report_price": "0.00"
+    },
+    {
+      "goods_id": "57",
+      "category_id": "13",
+      "goods_name": "化妆品检测—备案检测",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "100.00",
+      "goods_cost": "0.00",
+      "goods_lower": "0.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "<p style=\"margin-top:0px;margin-bottom:10px;padding:0px;vertical-align:baseline;border:none;color:#444444;font-family:&quot;font-size:16px;text-align:center;\">\r\n\t<img alt=\"成都一幼儿园老师用针扎小孩屁股 警方已掌握证据\" src=\"http://www.bashan.com/uploads/allimg/170321/3-1F32110151b54.png\" style=\"margin:0px;padding:0px;vertical-align:baseline;border-width:initial;border-style:none;max-width:100%;width:496px;height:420px;\" /> \r\n</p>\r\n<p style=\"margin-top:0px;margin-bottom:10px;padding:0px;vertical-align:baseline;border:none;color:#444444;font-family:&quot;font-size:16px;\">\r\n\t娃娃最近既没打疫苗，也未看病打针，屁股上的针眼状的刺痕哪来的?\r\n</p>\r\n<p style=\"margin-top:0px;margin-bottom:10px;padding:0px;vertical-align:baseline;border:none;color:#444444;font-family:&quot;font-size:16px;\">\r\n\t近日，成都郫都区犀浦“甜甜幼儿园”中一班的不少家长发现，孩子突然不愿去幼儿园了。经家长几番追问，孩子们反映班里的两位老师打过他们，还威胁不准告诉家长。不仅如此，还有孩子称，有位老师曾用针扎他们的屁股。罗女士在女儿苗苗的屁股上，就清楚看到了几个鲜红的疑似针眼的刺痕……\r\n</p>",
+      "removed_status": "1",
+      "goods_check_type": "1",
+      "add_time": "1488357142",
+      "update_time": "1497498263",
+      "special": "1",
+      "is_hot": "0",
+      "risk_report_price": "1000.00"
+    },
+    {
+      "goods_id": "56",
+      "category_id": "44",
+      "goods_name": "生产水检测--GB 5749-2006 生活饮用水卫生标准",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "100.00",
+      "goods_cost": "0.00",
+      "goods_lower": "0.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "",
+      "removed_status": "1",
+      "goods_check_type": "2",
+      "add_time": "1488356343",
+      "update_time": "1497344540",
+      "special": "1",
+      "is_hot": "0",
+      "risk_report_price": "0.00"
+    },
+    {
+      "goods_id": "55",
+      "category_id": "28",
+      "goods_name": "生产车间检测--《化妆品生产许可工作规范》",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "100.00",
+      "goods_cost": "0.00",
+      "goods_lower": "0.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "",
+      "removed_status": "1",
+      "goods_check_type": "2",
+      "add_time": "1488355164",
+      "update_time": "1497345945",
+      "special": "0",
+      "is_hot": "0",
+      "risk_report_price": "0.00"
+    },
+    {
+      "goods_id": "53",
+      "category_id": "47",
+      "goods_name": "面膜 QB/T 2872 2007",
+      "goods_sn": "",
+      "goods_status": "1",
+      "goods_crowd": "",
+      "goos_price": "100.00",
+      "goods_cost": "0.00",
+      "goods_lower": "0.00",
+      "goods_img": "http://mall.lccert.com/test/upload/goods_images/20170622/14981263351696276186.jpg",
+      "goods_other_img": "",
+      "goods_desc": "",
+      "removed_status": "1",
+      "goods_check_type": "2",
+      "add_time": "1488350592",
+      "update_time": "1497344555",
+      "special": "1",
+      "is_hot": "0",
+      "risk_report_price": "0.00"
+    }
+  ],
+  "TotalRecordCount": "11",
+  "Pager": {
+    "jtPageSize": 30,
+    "jtStartIndex": 0
+  },
+  "Result": "OK"
+}
+}
+
