@@ -1,4 +1,4 @@
-# lichuang_vue
+# lichuang_v
 立创化妆品商城系统
 
 > lichuang_vue project
